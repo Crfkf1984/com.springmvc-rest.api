@@ -1,0 +1,8 @@
+org\example\dao\DaoTodo.class
+org\example\entity\Todo.class
+org\example\MyConfig.class
+org\example\controller\Controller.class
+org\example\service\Service.class
+org\example\service\ServiceImpl.class
+org\example\dao\DaoTodoImpl.class
+org\example\MyWebInitializer.class
